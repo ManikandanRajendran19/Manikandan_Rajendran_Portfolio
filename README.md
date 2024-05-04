@@ -1,4 +1,5 @@
 # Manikandan_Rajendran_Portfolio
+![ManikandanR-Photo](https://github.com/ManikandanRajendran19/Manikandan_Rajendran_Portfolio/assets/168916053/fc1255c2-cf19-4729-82f9-3e3da00ca8ae)
 
 ## PROFESSIONAL SUMMARY
 - Versatile DotNet Full Stack developer, distinguished for collaborative skills and a track record of independently delivering impactful and innovative solutions to complex business problems.
