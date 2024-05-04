@@ -13,7 +13,7 @@
 - Others : SVN, MQ, AutoSys, ActiveX Controls, Web API Consumption, ServiceNow, FileNet, Agile (Scrum/Kanban), Debugging, Root Cause Analysis, SDLC, Network and Prompt Engineering
 
 ## WORK EXPERIENCE 
-** Software Engineer - Cognizant Technology Solutions Coimbatore - India (Oct’23 - Present) **
+**Software Engineer - Cognizant Technology Solutions Coimbatore - India (Oct’23 - Present)**
 - Implemented cost-effective solutions, resulting in reducing delivery time by 30%.
 - Collaborated with cross-functional teams, enhancing project success rates by 10%.
 - Spearheaded the implementation of utilizing third part service for performing user authentication for multiple DotNet and cross functional applications. 
